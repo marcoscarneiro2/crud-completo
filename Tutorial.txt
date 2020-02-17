@@ -1,0 +1,1 @@
+Criar o banco com nome vuephpcrud e inserir o arquivo sql no banco
